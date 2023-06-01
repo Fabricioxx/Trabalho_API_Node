@@ -20,3 +20,14 @@ Conteúdo do teste
 * Listar um único usuário por Codigo. 
 * Listar usuários por Nome, Sobrenome, Cidade, Estado e Status.
 * Deletar um usuário (Deletar do banco)
+
+===================================================================
+
+
+```
+● npm init -y // Criação do package.json
+● npm install express // Instalação no express
+● npm install nodemon // Instalação do nodemon
+
+
+```
