@@ -28,6 +28,10 @@ Conteúdo do teste
 ● npm init -y // Criação do package.json
 ● npm install express // Instalação no express
 ● npm install nodemon // Instalação do nodemon
+● npm install multer // upload de arquivos
 
+
+npm start
+npm run start
 
 ```
