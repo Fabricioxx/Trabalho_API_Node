@@ -1,7 +1,5 @@
 # Fabrício Rosa
-Trabalho Bimestral - NodeJs
-
-Conteúdo do teste
+Trabalho - api NodeJs
 
 ### Gerenciador de Assinantes
 
