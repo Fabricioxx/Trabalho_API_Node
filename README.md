@@ -26,8 +26,9 @@ Conteúdo do teste
 
 ```
 ● npm init -y // Criação do package.json
-● npm install express // Instalação no express
-● npm install nodemon // Instalação do nodemon
+● npx express-generator --view=pug // Instalação estrutura Express
+● npm install mongoose // mongoDB
+● npm install nodemon // Instalação do ODM nodemon
 ● npm install multer // upload de arquivos
 
 
